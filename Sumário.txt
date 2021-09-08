@@ -1,0 +1,4 @@
+Aula02 - Introdução
+Aula03 - Escopo de Variáveis
+Aula04 - Tipos de Dados
+Aula05 - Casting e Random
