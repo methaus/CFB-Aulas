@@ -2,3 +2,5 @@ Aula02 - Introdução
 Aula03 - Escopo de Variáveis
 Aula04 - Tipos de Dados
 Aula05 - Casting e Random
+Aula06 - String (arrays de caracteres)
+Aula07 - Relacional "in", leitor ".format" e caracteres de escape
