@@ -4,3 +4,5 @@ Aula04 - Tipos de Dados
 Aula05 - Casting e Random
 Aula06 - String (arrays de caracteres)
 Aula07 - Relacional "in", leitor ".format" e caracteres de escape
+Aula08 - Boolean
+Aula09 - List (array)
