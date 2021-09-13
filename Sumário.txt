@@ -6,3 +6,5 @@ Aula06 - String (arrays de caracteres)
 Aula07 - Relacional "in", leitor ".format" e caracteres de escape
 Aula08 - Boolean
 Aula09 - List (array)
+Aula10/11 - IF ELIF ELSE
+Aula12 - Loop
