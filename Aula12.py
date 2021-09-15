@@ -22,3 +22,10 @@ for i in array:
 
 for i in "vertical": #string logo convertida em objeto indexado
     print i
+
+print "---------------"
+
+matriz = [["0 0","0 1"],["1 0","1 1"]]
+
+for coluna1,coluna2 in matriz: #Recebe dois índices que leêm a quatidade de colunas
+    print "{0} {1}".format(coluna1,coluna2)

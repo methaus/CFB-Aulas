@@ -7,4 +7,8 @@ Aula07 - Relacional "in", leitor ".format" e caracteres de escape
 Aula08 - Boolean
 Aula09 - List (array)
 Aula10/11 - IF ELIF ELSE
-Aula12 - Loop
+Aula12 - Loop for
+Aula13 - Input
+Aula14 - Loop while
+Aula15 - Tuple
+Aula16 - Matrizes
