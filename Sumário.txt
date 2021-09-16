@@ -12,3 +12,4 @@ Aula13 - Input
 Aula14 - Loop while
 Aula15 - Tuple
 Aula16 - Matrizes
+Aula17 - Dict - *TESTE DO OPERADOR IN*
