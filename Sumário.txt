@@ -13,3 +13,5 @@ Aula14 - Loop while
 Aula15 - Tuple
 Aula16 - Matrizes
 Aula17 - Dict - *TESTE DO OPERADOR IN*
+Aula18 - Jogo de advinhação
+Aula19 - Funções Python (def) = SWITCH CASE
