@@ -17,3 +17,5 @@ Aula18 - Jogo de advinhação
 Aula19 - Funções Python (def) = SWITCH CASE
 Aula20 - def params
 Aula21 - def return
+Aula22 - Funções Anônimas/Simples (lambda)
+Aula23 - Classes (this)
