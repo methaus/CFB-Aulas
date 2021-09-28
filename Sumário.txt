@@ -19,3 +19,5 @@ Aula20 - def params
 Aula21 - def return
 Aula22 - Funções Anônimas/Simples (lambda)
 Aula23 - Classes (this)
+Aula24 - Metodos e Construtores
+Aula25 - Herança, super(*instância*, args)[python 2]
