@@ -22,3 +22,5 @@ Aula23 - Classes (this)
 Aula24 - Metodos e Construtores
 Aula25 - Herança, super(*instância*, args)[python 2]
 Aula26 - Tratamento de erros (try, except, raise)
+Aula27/28... (exercícios)
+Aula29 - Iteradores
