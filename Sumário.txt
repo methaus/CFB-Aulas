@@ -24,4 +24,7 @@ Aula25 - Herança, super(*instância*, args)[python 2]
 Aula26 - Tratamento de erros (try, except, raise)
 Aula27/28... (exercícios)
 Aula29 - Iteradores
-Aula30 - Jogo da Velha
+Aula30/31/32/33... (Jogo da Velha)
+Aula34 - Leitura de bibliotecas externas and dir()
+Aula35 - Datas
+Aula36 - JSON
