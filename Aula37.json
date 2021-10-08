@@ -1,0 +1,40 @@
+{
+    "obj1": {
+        "chave1": [
+            "item0", 
+            "item1", 
+            "item2"
+        ], 
+        "chave0": "item0", 
+        "chave3": 11, 
+        "chave2": [
+            {
+                "chave201": "item21", 
+                "chave200": "item20"
+            }, 
+            {
+                "chave210": "item20", 
+                "chave211": "item21"
+            }
+        ]
+    }, 
+    "obj2": {
+        "chave1": [
+            "item0", 
+            "item1", 
+            "item2"
+        ], 
+        "chave0": "item0", 
+        "chave3": 11, 
+        "chave2": [
+            {
+                "chave201": "item21", 
+                "chave200": "item20"
+            }, 
+            {
+                "chave210": "item20", 
+                "chave211": "item21"
+            }
+        ]
+    }
+}
