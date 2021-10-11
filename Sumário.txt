@@ -27,4 +27,5 @@ Aula29 - Iteradores
 Aula30/31/32/33... (Jogo da Velha)
 Aula34 - Leitura de bibliotecas externas and dir()
 Aula35 - Datas
-Aula36/37 - JSON
+Aula36/37/38/39 - JSON
+Aula40 - Expressões regulares re.(findall, search, split)
