@@ -30,4 +30,4 @@ Aula35 - Datas
 Aula36/37/38/39 - JSON
 Aula40/41/42/43 - Expressões regulares re.(findall, search, split)
 Aula44/45/46 - Operando arquivos
-Aula47 - SQLite
+Aula47/48 - SQLite e criação de tabela via código
