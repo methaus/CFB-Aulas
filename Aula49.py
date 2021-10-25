@@ -1,7 +1,11 @@
 import sqlite3
 from sqlite3 import Error
 
-print "Aula 47"
+print "Aula 49"
+
+nome = raw_input("Nome: ").replace("\r", "")
+telefone = raw_input("Tel: ").replace("\r", "")
+email = raw_input("Email: ").replace("\r", "")
 
 def conexDB(): # Criando a conexão sqlite3
     conex = None
@@ -13,22 +17,22 @@ def conexDB(): # Criando a conexão sqlite3
 
 # Código SQL
 sqlcode = """ 
-    CREATE TABLE tb_contatos_teste0 (
-        N_IDCONTATO        INTEGER      PRIMARY KEY AUTOINCREMENT,
-        VC_NOMECONTATO     VARCHAR (30),
-        VC_TELEFONECONTATO VARCHAR (14),
-        VC_EMAILCONTATO    VARCHAR (30) 
+    INSERT INTO tb_contatos_teste0 (
+        VC_NOMECONTATO, VC_TELEFONECONTATO, VC_EMAILCONTATO 
+    )VALUES(
+        '{0}','{1}','{2}'
     );
-"""
+""".format(nome, telefone, email)
 
-def newTabela(conex, sql):
+def insertTb(conex, sql):
     try:
         new = conex.cursor() # Indicando o ponteiro do arquivo
         new.execute(sql) #query
-        print "Tabela inserida"
+        conex.commit() ############# COMMIT
+        print "Registro inserido..."
     except Error as ex:
         print ex
+    return conex
 
-############## Programa
-newTabela(conexDB(), sqlcode)
+insertTb(conexDB(), sqlcode)
 conexDB().close()
