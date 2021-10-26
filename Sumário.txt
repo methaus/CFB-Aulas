@@ -30,5 +30,8 @@ Aula35 - Datas
 Aula36/37/38/39 - JSON
 Aula40/41/42/43 - Expressões regulares re.(findall, search, split)
 Aula44/45/46 - Operando arquivos
+***********SQL*********
 Aula47/48 - SQLite e criação de tabela via código
-Aula49 - Inserçando tabelas no banco
+Aula49 - Inserçando tabelas no banco de dados
+Aula50 - Deletando registros no banco de dados
+Aula51 - SQL update
