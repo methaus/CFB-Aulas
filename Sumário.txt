@@ -35,3 +35,5 @@ Aula47/48 - SQLite e criação de tabela via código
 Aula49 - Inserçando tabelas no banco de dados
 Aula50 - Deletando registros no banco de dados
 Aula51 - SQL update
+Aula52 - Consultas - SELECT
+Aula53 - App Agenda
