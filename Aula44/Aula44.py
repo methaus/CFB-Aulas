@@ -10,7 +10,7 @@ arqui = open("{0}{1}".format(caminho, raw_input("Nome do arquivo: ").replace("\r
 # "r" - Read - Default value. Opens a file for reading, error if the file does not exist
 # "a" - Append - Opens a file for appending, creates the file if it does not exist
 # "w" - Write - Opens a file for rewriting, creates the file if it does not exist
-# (python 3) "x" - Create - Creates the specified file, returns an error if the file
+# (python 3) "x" - Create - Creates the specified file, returns an error if the file exist
 
 if (oper == 'r'):
     search = raw_input("Procurar no arquivo: ").replace("\r", "")
